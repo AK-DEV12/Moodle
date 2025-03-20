@@ -17,7 +17,7 @@ export default function Hero() {
       </h1>
       <p className="text-lg sm:text-xl md:text-2xl w-full mx-auto max-w-[600px]">
         Create your mood record and see how you feel on{" "}
-        <span className="font-bold">every day of every year.</span>
+        <span className="font-bold">every day of every year!</span>
       </p>
       <CallToAction />
       <Calender demo />
